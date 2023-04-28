@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @fGancedo
+- 👋 Hi, I’m Facu Gancedo
 - 👀 I’m interested in data and math.
-- 🌱 I’m currently learning c++ and Python
+- 🌱 I’m currently learning C++ and Python
 
 
 <!---
