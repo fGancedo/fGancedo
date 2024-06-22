@@ -1,5 +1,5 @@
 Hi! I’m Facu Gancedo.
-I’m a former canoe slalom competitor, now studying Data Science. I'm interested in the efficient and responsible use of data to make decisions, sports analytics and math, specially if it is related to Calculus.
+I’m a former canoe slalom competitor, now studying Data Science. I'm interested in the use of data to make decisions, sports analytics and math, specially if it is related to Calculus.
 I’m currently learning C++ and Python
 
 
